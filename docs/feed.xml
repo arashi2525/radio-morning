@@ -3,12 +3,20 @@
   <channel>
     <title>朝のニュースラジオ</title>
     <link>https://arashi2525.github.io/radio-morning/</link>
-    <description>毎朝6時、AIが主要ニュースを4分にまとめてお届けします。</description>
+    <description>毎朝6時、AIが金融・一般・茨城・医療・NBA・VALORANTのニュースをまとめてお届けします。</description>
     <language>ja</language>
     <atom:link href="https://arashi2525.github.io/radio-morning/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>News Radio Bot</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
+    <item>
+      <title>2026年10月2日のニュース</title>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。全文は公開ページの原稿テキストをご覧ください。</description>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-02.mp3</guid>
+      <pubDate>Fri, 02 Oct 2026 00:37:01 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-02.mp3" length="2551824" type="audio/mpeg" />
+      <itunes:duration>425</itunes:duration>
+    </item>
     <item>
       <title>2026年10月1日のニュース</title>
       <description>参照した記事:
