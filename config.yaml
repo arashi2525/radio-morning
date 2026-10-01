@@ -2,7 +2,7 @@
 
 podcast:
   title: "朝のニュースラジオ"
-  description: "毎朝6時、AIが主要ニュースを4分にまとめてお届けします。"
+  description: "毎朝6時、AIが金融・一般・茨城・医療・NBA・VALORANTのニュースをまとめてお届けします。"
   author: "News Radio Bot"
   language: "ja"
   category: "News"          # Apple Podcasts のカテゴリ名
@@ -12,30 +12,75 @@ podcast:
   cover_image: ""
   keep_episodes: 30         # これより古い回はMP3ごと削除(リポジトリ肥大化の防止)
 
-# ジャンルとRSSソース。順番がそのまま番組内の順番になります。
+# 市場データ(Yahoo Finance のシンボル)。金融コーナーの冒頭で値動きとして読み上げます。
+market:
+  - { name: "日経平均株価", symbol: "^N225", unit: "円" }
+  - { name: "ダウ平均株価", symbol: "^DJI", unit: "ドル" }
+  - { name: "S&P500", symbol: "^GSPC", unit: "" }
+  - { name: "ナスダック総合指数", symbol: "^IXIC", unit: "" }
+  - { name: "ドル円", symbol: "JPY=X", unit: "円" }
+  - { name: "アメリカ10年国債利回り", symbol: "^TNX", unit: "%" }
+  - { name: "WTI原油先物", symbol: "CL=F", unit: "ドル" }
+  - { name: "ビットコイン", symbol: "BTC-USD", unit: "ドル" }
+
+# コーナーとRSSソース。順番がそのまま番組内の順番になります。
+#   note:      そのコーナーの扱い方(Claudeへの指示)
+#   max_items: Claudeに候補として渡す記事数の上限(この中から重要なものが選ばれます)
+# Google ニュース検索のURLは q= の後ろのキーワードを変えるだけで別の話題にできます。
 genres:
-  - name: "主要ニュース"
-    max_items: 6            # このジャンルからClaudeに渡す記事数の上限
+  - name: "金融・マーケット"
+    note: "最初に市場データの主な値動きを整理して伝える。続けて、値動きの背景やそのほか目立った金融・経済ニュースがあればまとめる。"
+    max_items: 10
+    sources:
+      - name: "日経 マーケット"
+        url: "https://assets.wor.jp/rss/rdf/nikkei/markets.rdf"
+      - name: "NHK 経済"
+        url: "https://news.web.nhk/n-data/conf/na/rss/cat5.xml"
+      - name: "Yahoo!ニュース 経済"
+        url: "https://news.yahoo.co.jp/rss/topics/business.xml"
+
+  - name: "一般ニュース"
+    note: "国内外の大きめのニュースだけを簡単にまとめる。"
+    max_items: 8
     sources:
       - name: "NHK 主要"
         url: "https://news.web.nhk/n-data/conf/na/rss/cat0.xml"
-  - name: "経済"
-    max_items: 4
+      - name: "Yahoo!ニュース 主要"
+        url: "https://news.yahoo.co.jp/rss/topics/top-picks.xml"
+
+  - name: "つくば・茨城"
+    note: "つくば市や茨城県周辺の地域ニュース。大きめのものがあれば簡単にまとめる。スポーツの試合告知などの小さな話題は省く。"
+    max_items: 8
     sources:
-      - name: "NHK 経済"
-        url: "https://news.web.nhk/n-data/conf/na/rss/cat5.xml"
-  - name: "国際"
-    max_items: 4
+      - name: "Google ニュース(つくば・茨城)"
+        url: "https://news.google.com/rss/search?q=%E3%81%A4%E3%81%8F%E3%81%B0+OR+%E8%8C%A8%E5%9F%8E+when:1d&hl=ja&gl=JP&ceid=JP:ja"
+
+  - name: "医学・医療"
+    note: "医学研究、医療制度、診療、創薬、公衆衛生など医療全般。大きめのニュースがあれば伝える。広告や募金、イベント告知、医療と無関係な話題は省く。"
+    max_items: 14
     sources:
-      - name: "NHK 国際"
-        url: "https://news.web.nhk/n-data/conf/na/rss/cat6.xml"
-  - name: "テクノロジー"
-    max_items: 4
+      - name: "Google ニュース(医療)"
+        url: "https://news.google.com/rss/search?q=%E5%8C%BB%E7%99%82+OR+%E5%8C%BB%E5%AD%A6+OR+%E6%96%B0%E8%96%AC+OR+%E8%87%A8%E5%BA%8A%E8%A9%A6%E9%A8%93+OR+%E5%8E%9A%E7%94%9F%E5%8A%B4%E5%83%8D%E7%9C%81+when:1d&hl=ja&gl=JP&ceid=JP:ja"
+      - name: "NHK 科学・文化"
+        url: "https://news.web.nhk/n-data/conf/na/rss/cat3.xml"
+
+  - name: "NBA"
+    note: "NBAの試合結果か大きなニュース(移籍、契約、けがなど)があれば短めにまとめる。Bリーグなど NBA 以外の話題は扱わない。"
+    max_items: 8
     sources:
-      - name: "ITmedia NEWS"
-        url: "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"
-      - name: "GIGAZINE"
-        url: "https://gigazine.net/news/rss_2.0/"
+      - name: "ESPN NBA"
+        url: "https://www.espn.com/espn/rss/nba/news"
+      - name: "バスケットボールキング"
+        url: "https://basketballking.jp/feed"
+
+  - name: "VALORANT"
+    note: "公式大会の開催期間中は試合結果を、それ以外は主要チームの移籍・加入・脱退情報を、あれば短めにまとめる。"
+    max_items: 8
+    sources:
+      - name: "VLR.gg"
+        url: "https://www.vlr.gg/rss"
+      - name: "Google ニュース(VALORANT)"
+        url: "https://news.google.com/rss/search?q=VALORANT+OR+VCT+when:1d&hl=ja&gl=JP&ceid=JP:ja"
 
 fetch:
   lookback_hours: 24        # これより古い記事は無視
@@ -43,10 +88,18 @@ fetch:
 
 script:
   model: "claude-opus-5-5"
-  target_minutes: 4
-  chars_per_minute: 290    # 読み上げ速度の目安。実際の尺がずれたらここを調整
+  target_minutes: 7         # 目安。ニュースの量に応じて多少前後します
+  chars_per_minute: 290     # 読み上げ速度の目安。実際の尺がずれたらここを調整
   # 原稿の口調などへの追加指示(任意)
   style: "落ち着いた朝のラジオ番組のパーソナリティとして、です・ます調で親しみやすく。"
+  # 番組全体への追加指示(任意)
+  extra: "上のコーナーに当てはまらなくても、特に知っておくべき大きな出来事があれば、その都度ひとこと加える。"
+
+# 番組の最後のミニクイズ。不要なら enabled: false
+quiz:
+  enabled: true
+  exam: "医師国家試験"
+  instruction: "一般問題レベルの五肢択一を1問。その日の医学・医療ニュースに関連づけられるならそのテーマから、なければ内科・外科・小児科・産婦人科・公衆衛生などから幅広く出題する。"
 
 tts:
   voice: "ja-JP-NanamiNeural"   # 男性なら ja-JP-KeitaNeural。一覧: edge-tts --list-voices

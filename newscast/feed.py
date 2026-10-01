@@ -27,19 +27,23 @@ def base_url(config: dict) -> str:
     return url.rstrip("/") + "/"
 
 
-def update_episodes(config: dict, site: Path, episode: dict) -> list[dict]:
-    """同じ日付の回は置き換え、古い回はMP3ごと削除する。新しい順のリストを返す。"""
+def load_episodes(site: Path) -> list[dict]:
     index = site / "episodes.json"
-    episodes = json.loads(index.read_text(encoding="utf-8")) if index.exists() else []
-    episodes = [e for e in episodes if e["date"] != episode["date"]] + [episode]
+    return json.loads(index.read_text(encoding="utf-8")) if index.exists() else []
+
+
+def update_episodes(config: dict, site: Path, episode: dict) -> list[dict]:
+    """同じ日付の回は置き換え、古い回はMP3と原稿ごと削除する。新しい順のリストを返す。"""
+    episodes = [e for e in load_episodes(site) if e["date"] != episode["date"]] + [episode]
     episodes.sort(key=lambda e: e["date"], reverse=True)
 
     keep = config["podcast"].get("keep_episodes", 30)
     for old in episodes[keep:]:
         (site / old["file"]).unlink(missing_ok=True)
+        (site / old["file"]).with_suffix(".txt").unlink(missing_ok=True)
     episodes = episodes[:keep]
 
-    index.write_text(json.dumps(episodes, ensure_ascii=False, indent=2), encoding="utf-8")
+    (site / "episodes.json").write_text(json.dumps(episodes, ensure_ascii=False, indent=2), encoding="utf-8")
     return episodes
 
 

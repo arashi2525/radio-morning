@@ -9,6 +9,7 @@ from zoneinfo import ZoneInfo
 import yaml
 
 from .fetch import fetch_news
+from .market import fetch_market
 
 JST = ZoneInfo("Asia/Tokyo")
 SITE = Path("docs")  # GitHub Pages の公開ディレクトリ
@@ -28,7 +29,10 @@ def main() -> int:
     if not genres:
         print("新着記事がないため、今日の回は作成しません。")
         return 0
+    market = fetch_market(config)
     if args.dry_run:
+        for m in market:
+            print(f"- {m['name']}: {m['price']:,.2f}{m['unit']} ({m['change']:+,.2f}, {m['pct']:+.2f}%) {m['date']}")
         for genre in genres:
             print(f"\n## {genre['name']}")
             for item in genre["items"]:
@@ -38,15 +42,17 @@ def main() -> int:
     # APIキーが必要な処理は dry-run では import しない
     from mutagen.mp3 import MP3
 
-    from .feed import update_episodes, write_feed
+    from .feed import load_episodes, update_episodes, write_feed
     from .script import write_script
     from .tts import synthesize
 
+    date = now.strftime("%Y-%m-%d")
+    past_quizzes = [e["quiz"] for e in load_episodes(SITE) if e.get("quiz") and e["date"] != date]
+
     print("原稿を生成中...")
-    script = write_script(config, genres, now)
+    script, quiz = write_script(config, genres, market, past_quizzes, now)
     print(f"  {len(script)}文字")
 
-    date = now.strftime("%Y-%m-%d")
     mp3 = SITE / "episodes" / f"{date}.mp3"
     print("音声を合成中...")
     synthesize(config, script, mp3)
@@ -54,13 +60,12 @@ def main() -> int:
     seconds = round(MP3(mp3).info.length)
     print(f"  {seconds // 60}分{seconds % 60}秒")
 
-    headlines = "\n".join(
-        f"・{item['title']}({item['source']}){item['link']}" for g in genres for item in g["items"]
-    )
+    corners = "、".join(g["name"] for g in genres)
     episode = {
         "date": date,
         "title": f"{now.year}年{now.month}月{now.day}日のニュース",
-        "description": f"参照した記事:\n{headlines}",
+        "description": f"今日のコーナー: {corners}。全文は公開ページの原稿テキストをご覧ください。",
+        "quiz": quiz,
         "file": f"episodes/{date}.mp3",
         "bytes": mp3.stat().st_size,
         "seconds": seconds,

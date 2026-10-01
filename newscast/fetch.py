@@ -57,11 +57,10 @@ def fetch_news(config: dict) -> list[dict]:
                 )
             if not items:
                 print(f"  [warn] {source['name']}: 期間内の新着なし(フィードが更新停止していないか確認)")
-            items.sort(key=lambda i: i["ts"], reverse=True)
-        # 1つのソースに偏らないよう、各ソースの新しい順に1件ずつ交互に取る
+        # フィードの並び(各サイトの掲載順)を保ったまま、ソースに偏らないよう1件ずつ交互に取る
         items = [i for group in zip_longest(*per_source) for i in group if i]
         items = items[: genre.get("max_items", 5)]
         print(f"  {genre['name']}: {len(items)}件")
         if items:
-            genres.append({"name": genre["name"], "items": items})
+            genres.append({"name": genre["name"], "note": genre.get("note", ""), "items": items})
     return genres
