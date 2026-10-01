@@ -2,10 +2,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>朝のニュースラジオ</title>
-    <link>http://localhost:8000/</link>
+    <link>https://arashi2525.github.io/radio-morning/</link>
     <description>毎朝6時、AIが主要ニュースを4分にまとめてお届けします。</description>
     <language>ja</language>
-    <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://arashi2525.github.io/radio-morning/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>News Radio Bot</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
@@ -30,10 +30,10 @@
 ・OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた(GIGAZINE)https://gigazine.net/news/20261001-openai-ignored-warnings/
 ・ソフトバンクG、OpenAIへの追加出資が完了 累計10兆円超 持分約13％に(ITmedia NEWS)https://www.itmedia.co.jp/news/article/2610/01/2000001944/
 ・ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応(GIGAZINE)https://gigazine.net/news/20261001-magnitude/</description>
-      <guid isPermaLink="true">http://localhost:8000/episodes/2026-10-01.mp3</guid>
-      <pubDate>Thu, 01 Oct 2026 23:06:22 +0900</pubDate>
-      <enclosure url="http://localhost:8000/episodes/2026-10-01.mp3" length="1625040" type="audio/mpeg" />
-      <itunes:duration>271</itunes:duration>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-01.mp3</guid>
+      <pubDate>Thu, 01 Oct 2026 23:41:33 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-01.mp3" length="1370592" type="audio/mpeg" />
+      <itunes:duration>228</itunes:duration>
     </item>
   </channel>
 </rss>
