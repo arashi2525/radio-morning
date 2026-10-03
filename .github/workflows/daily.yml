@@ -38,3 +38,8 @@ jobs:
           git add docs
           git diff --cached --quiet || git commit -m "Episode $(TZ=Asia/Tokyo date +%F)"
           git push
+
+      - name: Notify phone (ntfy)
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python -m newscast.notify
