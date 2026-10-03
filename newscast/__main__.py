@@ -1,4 +1,4 @@
-"""python -m newscast : RSS収集 → 原稿 → MP3 → ポッドキャストRSS更新。"""
+"""python -m newscast : RSS収集 → 原稿・文字版 → MP3 → ポッドキャストRSSと公開ページ更新。"""
 
 import argparse
 import sys
@@ -42,6 +42,7 @@ def main() -> int:
     # APIキーが必要な処理は dry-run では import しない
     from mutagen.mp3 import MP3
 
+    from .article import episode_page, render_body
     from .feed import load_episodes, update_episodes, write_feed
     from .script import write_script
     from .tts import synthesize
@@ -50,8 +51,9 @@ def main() -> int:
     past_quizzes = [e["quiz"] for e in load_episodes(SITE) if e.get("quiz") and e["date"] != date]
 
     print("原稿を生成中...")
-    script, quiz = write_script(config, genres, market, past_quizzes, now)
-    print(f"  {len(script)}文字")
+    result = write_script(config, genres, market, past_quizzes, now)
+    script = result.script
+    print(f"  ラジオ {len(script)}文字 / 文字版 {len(result.text)}文字")
 
     mp3 = SITE / "episodes" / f"{date}.mp3"
     print("音声を合成中...")
@@ -60,12 +62,25 @@ def main() -> int:
     seconds = round(MP3(mp3).info.length)
     print(f"  {seconds // 60}分{seconds % 60}秒")
 
+    title = f"{now.year}年{now.month}月{now.day}日のニュース"
+    body = page_file = ""
+    if result.text:
+        body = render_body(result.text, result.links, market)
+        page_file = f"episodes/{date}.html"
+        (SITE / page_file).write_text(
+            episode_page(config["podcast"]["title"], title, f"{date}.mp3", body), encoding="utf-8"
+        )
+    else:
+        print("  [warn] 文字版が生成されなかったため、今日の回は音声のみです")
+
     corners = "、".join(g["name"] for g in genres)
     episode = {
         "date": date,
-        "title": f"{now.year}年{now.month}月{now.day}日のニュース",
-        "description": f"今日のコーナー: {corners}。全文は公開ページの原稿テキストをご覧ください。",
-        "quiz": quiz,
+        "title": title,
+        "description": f"今日のコーナー: {corners}。",
+        "quiz": result.quiz,
+        "page": page_file,
+        "body": body,
         "file": f"episodes/{date}.mp3",
         "bytes": mp3.stat().st_size,
         "seconds": seconds,
