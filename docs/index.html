@@ -1,17 +1,41 @@
 <!doctype html>
 <html lang="ja">
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>朝のニュースラジオ</title>
 <link rel="alternate" type="application/rss+xml" href="feed.xml">
-<style>body{font-family:sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem}
-ul{list-style:none;padding:0}audio{width:100%}</style>
+<style>
+:root{--bg:#fbfaf7;--fg:#1d1d1f;--muted:#6b6b70;--line:#e3e1dc;--accent:#0b6bcb;--up:#c62828;--down:#1565c0;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececee;--muted:#9a9aa1;--line:#2c2c30;--accent:#6aa9ff;--up:#ff7b72;--down:#79b8ff;--card:#1c1c1f}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.8 system-ui,-apple-system,"Hiragino Sans","Yu Gothic UI",sans-serif}
+main{max-width:42rem;margin:0 auto;padding:1.5rem 16px 4rem}
+a{color:var(--accent)}
+h1{font-size:1.5rem;line-height:1.4;margin:.5rem 0}
+h2{font-size:1.15rem;margin:2.2rem 0 .6rem;padding-bottom:.3rem;border-bottom:1px solid var(--line)}
+ul{padding-left:1.2rem}li{margin:.5rem 0}
+.meta,.back{color:var(--muted);font-size:.9rem}
+audio{width:100%;margin:1rem 0}
+table{width:100%;border-collapse:collapse;font-size:.92rem;font-variant-numeric:tabular-nums}
+th,td{padding:.35rem .5rem;border-bottom:1px solid var(--line);text-align:right}
+th:first-child,td:first-child{text-align:left}
+.up{color:var(--up)}.down{color:var(--down)}
+details{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:.6rem 1rem;margin:1rem 0}
+summary{cursor:pointer;font-weight:600}
+.episodes{list-style:none;padding:0}.episodes li{padding:1rem 0;border-bottom:1px solid var(--line)}
+.episodes p{margin:0}
+</style>
+</head>
+<body><main>
 <h1>朝のニュースラジオ</h1>
 <p>毎朝6時、AIが金融・一般・茨城・医療・NBA・VALORANTのニュースをまとめてお届けします。</p>
-<p>ポッドキャストアプリに登録: <a href="feed.xml">https://arashi2525.github.io/radio-morning/feed.xml</a></p>
-<ul>
+<p class="meta">ポッドキャストアプリに登録: <a href="feed.xml">https://arashi2525.github.io/radio-morning/feed.xml</a></p>
+<ul class="episodes">
+<li><p>2026年10月4日のニュース ・ <a href="episodes/2026-10-04.html">文字で読む</a></p><audio controls preload="none" src="episodes/2026-10-04.mp3"></audio></li>
 <li><p>2026年10月3日のニュース</p><audio controls preload="none" src="episodes/2026-10-03.mp3"></audio></li>
 <li><p>2026年10月2日のニュース</p><audio controls preload="none" src="episodes/2026-10-02.mp3"></audio></li>
 <li><p>2026年10月1日のニュース</p><audio controls preload="none" src="episodes/2026-10-01.mp3"></audio></li>
 </ul>
+</main></body>
 </html>
