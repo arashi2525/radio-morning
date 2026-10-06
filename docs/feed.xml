@@ -10,6 +10,63 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月7日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-07.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;70,683.98円&lt;/td&gt;&lt;td class="up"&gt;+737.12 (+1.05%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;51,521.28ドル&lt;/td&gt;&lt;td class="up"&gt;+253.38 (+0.49%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,818.93&lt;/td&gt;&lt;td class="up"&gt;+44.98 (+0.58%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;27,599.79&lt;/td&gt;&lt;td class="up"&gt;+122.48 (+0.45%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;158.13円&lt;/td&gt;&lt;td class="up"&gt;+0.40 (+0.25%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.27%&lt;/td&gt;&lt;td class="down"&gt;-0.04 (-0.79%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;89.91ドル&lt;/td&gt;&lt;td class="up"&gt;+0.48 (+0.54%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;85,556.40ドル&lt;/td&gt;&lt;td class="down"&gt;-230.19 (-0.27%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日経平均は700円超の上昇&lt;/strong&gt;: 6日の東京市場で日経平均株価は前日比737円高と、1%あまり値上がりしました。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;米国株は続伸、S&amp;amp;P500は最高値&lt;/strong&gt;: NYダウは253ドル高と続伸し、AI関連銘柄に買いが入りました。S&amp;amp;P500は最高値を更新し、ナスダック総合指数も上昇しました。為替は1ドル158円台前半へ円安ドル高が進み、米10年国債利回りは低下しました。 &lt;a href="https://www.nikkei.com/article/DGXZQOFL0700I0X01C26A0000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;原油・金が反発&lt;/strong&gt;: NY原油先物は1バレル90ドル近くまで小反発しました。中東情勢への不透明感が根強く、金も反発しました。ビットコインは小幅安でした。 &lt;a href="https://www.nikkei.com/article/DGXZQOFL06BKS0W6A001C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;11か国で石油備蓄の協調放出枠組みを検討へ&lt;/strong&gt;: 中東情勢を受け、日本や東南アジアなど11か国が、石油備蓄を強化し、緊急時に協調して放出する枠組みを検討することで合意する見通しです。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261006de55579" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日立とファナックがフィジカルAIで提携&lt;/strong&gt;: AIが自律的に判断してロボットなどを動かす「フィジカルAI」の分野で提携し、来年度の実用化を目指します。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261006de55581" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;きょうから代表質問&lt;/strong&gt;: 高市首相の所信表明演説に対する各党の代表質問が7日から始まります。食料品の消費税減税、衆議院の定数削減、簗農林水産相の地元道路予算をめぐる発言などで論戦となる見通しです。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261007de55598" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;首相、米に日朝首脳会談の仲介を要請&lt;/strong&gt;: 高市首相が、アメリカに日朝首脳会談の仲介を要請しました。 &lt;a href="https://news.yahoo.co.jp/pickup/6597796?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ガザ戦闘開始から3年&lt;/strong&gt;: イスラエルとハマスの戦闘開始から3年、停戦からまもなく1年となります。イスラエル軍は断続的に攻撃を行っており、厳しい人道状況が続いています。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261007de55611" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ノーベル物理学賞に米大学の研究者&lt;/strong&gt;: 南極の観測施設「IceCube」で、宇宙から届く極めて高エネルギーのニュートリノの観測に成功した功績が評価されました。7日は化学賞が発表され、日本から3年連続の受賞となるか注目されます。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261005de54668" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20260930de53274" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国際ハッカー集団の中心人物とみられる容疑者を国内で拘束&lt;/strong&gt;: 日本の捜査当局が国内で拘束し、今月ドイツ当局に引き渡していました。アサヒグループホールディングスへの攻撃にも関与したとみられています。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261006de55001" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;つくば市は一日晴れ、最高26℃&lt;/strong&gt;: 朝から夜まで晴れる予想で、昼間はやや暑さを感じる場面もありそうです。 &lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE80NDhJT256dXRQSUhRcHRyOEt2NG1UTngxaGF0QU0wc1I0MFhyeEE0emJxTXllUGN3ZUY0QndZQ2E2UWVya3ZWbnU0LWotTTlLZmhXM3dzM3VzdkJadFdJa2FHNW8xVzdNcktQUGxtWkk1Q2gtUHZTXzZzQmtUTVU?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大相撲秋巡業がつくばでスタート&lt;/strong&gt;: 大の里が朝稽古で汗を流しました。「ほぼ地元」の茨城で、会場から拍手と歓声が送られました。 &lt;a href="https://news.google.com/rss/articles/CBMimwNBVV95cUxQZ0h4OHN0cnNzZHg4UUh4cUlobW9ieEYwXzRpMm5DVzZSX3pCOGQ1VDJobDByUm1IU1BFRHJWdFJQR3FrZ1dYN29ZQzYzT1ZuSHZTQlczTVlHWEdrV1V0QWNtMktJaEU3VThZVHB3SGk1Qk5LcDFqVjhFNVNKSmg1cFZmSjFVd2hXbl81bjFfeGExUTNWVEthZ1ZMWVdUYzk5Zkg4YUlXa0RONDdlejJFRGJpSDhHbnhNTS0wUHA2NHhTTE80S3dsbTlHV0Q1THVFNUV1T1Q0ZUxBdlkzcXd6WF84ZzFUdjVsMnNzaXVDcWt6VFU4VENMVlVJLTRpRFJpTE5DODVHcVFlWURGODhRYno1ZjdOSW5lY3lqSU41U3BXQ2FGR2VRdGk1UklUSlQ1Wm5oYmJ0TElNdl9ER0M2WkpVckVzSHJIVTZQbFpjNFpaSXBDaFl4Q1Nrc3hPUW5kc2pVbVNEaXVxOTJzekhQa0p5ODR1SXVMbGFuTThfZXhkQkZMTUVpRHFRYURXNXliM04yM21HaXZxSmM?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FWGJEUlJ1TFlJLVhBdzRFb21EVElEMGlkb3BzcDgwMTBYRUtwdlExMWZ3aG80N1RjR214Zjh0MDJHUEQyb3lkbFU5M3M1a2ZTdmJUVGF4VQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ノーベル生理学・医学賞は脳研究の米独3教授に&lt;/strong&gt;: 脳の内部の働きを解明した、米国とドイツの3人の教授が受賞します。 &lt;a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTzJjSkVBRFlVRU1MNDJaY0pNbmpSaWxLcUZua1FiSktYMnNrazRXcFRaZkNfc3BvZ2I3U1REejhKZG5lUFZXOGtXWWdoTmVBd3RhdHBLNm5mQnRVV191LdIBZkFVX3lxTE5pUnBmbTFsRHczSnBjOWNZak9NMURMOWhrSjhVbDVFZThMN21Vb2ZibHZWUFl5M1RaX0JXcWszaGFZQU5SNG1OTTFBcFRuQVpwTUpkYXZ5ektCVEJRNXJQLUdiUWNmZw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;旭化成子会社で個人情報漏えいの可能性&lt;/strong&gt;: 旭化成セラピューティクスの医療関係者向けウェブサイトがサイバー攻撃による不正アクセスを受けました。55万人余り(最大約56万人)の個人情報が漏えいした可能性があります。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261007de55592" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5tVXhMYWxuZ2QtYi1oYXAwWElUWGpIa2toamZFUy1oVW8wSFd1WHQ1Um1FNlAzeVZBRjE1S0VvOXNJNkJSUW1MYVVUeUhHUVozSEtBYjFlVGF6SHppRlpTRU9oN1JoNUpyUVotdw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;米FDAの9月承認新薬&lt;/strong&gt;: アストラゼネカの経口SERD「Etcamah」や、ウルトラジェニクスの遺伝子治療薬「Fayuvi」などが承認されました。 &lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yTFBpTUlYbFB5dE54MjlGN2g0TEFzTDFuMDlFaTVvYktPNnhRdjdYYWhSam1nVDVYMXB5Q2llb2VrRHRVUk56b0dpTjJDVUNFLWNlSzZqNA?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NBA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;シクサーズのフクポルティがアキレス腱断裂&lt;/strong&gt;: アリエル・フクポルティが古巣ニックス戦で右アキレス腱を断裂し、2026-27シーズンを全休する見通しです。 &lt;a href="https://basketballking.jp/news/world/20261006/636373.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;クリッパーズのストゥルースが開幕離脱へ&lt;/strong&gt;: マックス・ストゥルースが右足の足底筋膜を部分断裂し、少なくとも4週間離脱します。4週間後に再検査を受けます。 &lt;a href="https://basketballking.jp/news/world/20261006/636291.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;障害されると、発語は流暢なのに言語の理解が難しくなる「感覚性失語」を起こす部位はどれか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ブローカ野&lt;/li&gt;
+&lt;li&gt;ウェルニッケ野&lt;/li&gt;
+&lt;li&gt;一次視覚野&lt;/li&gt;
+&lt;li&gt;小脳&lt;/li&gt;
+&lt;li&gt;中心前回&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 2. ウェルニッケ野&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ウェルニッケ野は、多くの人で左側頭葉(上側頭回の後部)にあり、言語の理解を担います。障害されると、発語は流暢でも錯語が多く、理解が障害される感覚性失語(ウェルニッケ失語)になります。前頭葉のブローカ野が障害されると、理解は比較的保たれる一方で発語が非流暢になる運動性失語(ブローカ失語)となります。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-07.mp3</guid>
+      <pubDate>Wed, 07 Oct 2026 06:14:41 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-07.mp3" length="2407392" type="audio/mpeg" />
+      <itunes:duration>401</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月5日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-05.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
