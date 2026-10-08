@@ -10,6 +10,68 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月9日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-09.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;69,042.11円&lt;/td&gt;&lt;td class="down"&gt;-993.60 (-1.42%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;51,231.64ドル&lt;/td&gt;&lt;td class="up"&gt;+51.77 (+0.10%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,765.36&lt;/td&gt;&lt;td class="down"&gt;-36.41 (-0.47%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;27,193.34&lt;/td&gt;&lt;td class="down"&gt;-345.35 (-1.25%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;157.82円&lt;/td&gt;&lt;td class="down"&gt;-0.48 (-0.30%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.23%&lt;/td&gt;&lt;td class="down"&gt;-0.05 (-0.87%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;91.18ドル&lt;/td&gt;&lt;td class="up"&gt;+2.90 (+3.29%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;81,659.37ドル&lt;/td&gt;&lt;td class="down"&gt;-1,616.56 (-1.94%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日経平均が約1000円安、米国はハイテク株中心に下落&lt;/strong&gt;: 10月8日の東京市場で日経平均株価は993円60銭安(−1.42%)の6万9042円11銭。米国市場はダウ平均が小幅高となった一方、S&amp;amp;P500は0.47%、ナスダック総合指数は1.25%下落しました。ドル円は157円82銭とやや円高、米10年国債利回りは5.23%に低下、WTI原油先物は3.29%高の91.18ドル、ビットコインは1.94%安となりました。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ウォール街、中間選挙の「民主党旋風」に警戒&lt;/strong&gt;: 米中間選挙での民主党の躍進に身構える動きがあり、AI相場に政策リスクが意識されていると報じられています。&lt;a href="https://www.nikkei.com/article/DGXZQOGN080M70Y6A001C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;11か国が石油備蓄の協調放出の検討で合意&lt;/strong&gt;: 中東情勢を受け、日本や東南アジアなど11か国の閣僚会合が8日にフィリピンで開かれました。備蓄を強化し、緊急時には協調して放出する枠組みを検討することで合意しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261009de56915" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;30年債入札、一定の需要も相場上昇続かず&lt;/strong&gt;: 財政懸念と海外金利の上昇が逆風になったと報じられています。&lt;a href="https://www.nikkei.com/article/DGXZQOFL084L2TY6A001C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不正アクセスによる情報漏えいが相次ぐ&lt;/strong&gt;: 第一興商が約872万件の個人情報漏えいのおそれを公表しました。NewsPicksの運営会社でも被害が明らかになっています。ローソンでも約215万件の情報漏えいが報じられました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261009de56931" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6598056?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;プルデンシャル不正、64人解雇・被害約52億円&lt;/strong&gt;: 不正をめぐり64人が解雇され、被害額は約52億円と報じられています。&lt;a href="https://news.yahoo.co.jp/pickup/6598063?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 経済&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6598015?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トヨタ、中国大手2社と3社で戦略提携&lt;/strong&gt;: 中国で合弁会社を設立している大手自動車メーカー2社と新たに3社の枠組みで提携しました。販売競争が激しい中国市場で競争力を高める狙いです。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261009de56905" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;食料品の消費税減税法案、9日に国会提出へ&lt;/strong&gt;: 与党は早期の審議入りと今国会での成立を目指しています。野党は減税の効果や財源を追及する構えです。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261009de56934" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;フーシ派がサウジ首都を弾道ミサイルで攻撃&lt;/strong&gt;: イエメンの反政府勢力フーシ派が8日もリヤドを攻撃したと発表し、攻撃の応酬が激化しています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261009de56932" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ノーベル化学賞に硤合憲三・東京理科大学名誉教授ら&lt;/strong&gt;: 自然界に存在するアミノ酸などの構造の起源の謎を明らかにし、人工的に再現できる方法を見いだしたことが評価されました。文学賞にはカナダの詩人アン・カーソン氏が選ばれ、平和賞は9日に発表されます。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261006de55098" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20261007de55972" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20260930de53274" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;声優団体、声の生成AIで初のガイドライン&lt;/strong&gt;: 声を生成AIで利用する際は本人の事前許諾を必須とすることなどを盛り込みました。今後、企業などに周知していきます。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261009de56922" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;紅白歌合戦の司会が決定&lt;/strong&gt;: 芦田愛菜さん、堺雅人さん、二宮和也さんが務めます。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261008de56895" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;茨城県・県警のHPがランサム攻撃で閲覧不能&lt;/strong&gt;: 原因はサイバー攻撃とされています。県は暫定版のホームページを開設しましたが、復旧のめどは立っていません。&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qTUJ2VUZpUTA4STlWbGd2TVNTenF1Y1NXNkhla0tJOUx4Y2E2LU9kU3F6U2lCeEFNei1xYVFURnpWVTNxYmNSdzlzdng0NkJDdFpHTk1IUWRmZGF2dlpVbHliNGdGREE?oc=5" target="_blank" rel="noopener"&gt;朝日新聞&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5oT2RLWUtiM0ZnalJLcFczU2dyaHJ6TG9Wa2VmMjNkSnpsWEdnTVBRMEFCN1hWYk9hU0NPQnVkTlliWTFjamhfSDZvTW9zQldDT0JRQW1pX0l4M1ZPRnpnQktVRHlRYl9iR2d5emphMmZValU?oc=5" target="_blank" rel="noopener"&gt;茨城新聞クロスアイ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;茨城県北部で震度3の地震&lt;/strong&gt;: マグニチュード4.0の地震があり、最大震度3を観測しました。津波の心配はありません。&lt;a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JZjduVDlFckVLZTdmaUpXMWtMLUVkRDBOYzl1TFp6UkJfRnFST21TVEx0N3hVWkdZc2QzTWw1SlF6QkdUU3dQVzNxbTBMa3R4dTFWejBlcXFqQkE?oc=5" target="_blank" rel="noopener"&gt;ウェザーニュース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;つくば市は晴れて過ごしやすい予想&lt;/strong&gt;: 10月9日は最高25℃、最低13℃の予想です。&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE04dFNGTUFFOFJlcnV2cUdnNVEtbWxyUU1IakUtZW5oY2VkeG9oV3NpUkVOSW5SRVp3SXRnTmNTZzB4SEhpZVNMMk9HOVVUYTBYODROSmtkMFhSUldMSDJGbjJNQWRPcTBpb1ZpMXRJZjRRQ3RVVUJiT293b0pIdGs?oc=5" target="_blank" rel="noopener"&gt;Yahoo!ニュース&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;北大病院、頭部外傷の運動まひに国内初の神経再生治療&lt;/strong&gt;: 事故などで頭にけがをして運動まひがある患者に、脳の神経再生を促す細胞を投与しました。手術は成功し、まひの症状に改善傾向が見られるとしています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261008de56643" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AIで臨床試験の成否を予測する動き&lt;/strong&gt;: AI企業がシミュレーションで臨床試験の成功率向上を目指しています。ノバルティスの最終治験の失敗をAIが予測していたと報じられています。&lt;a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5LamJFc0tieUoxWFhwcVJ1cDczWURRTVJWbXpWVzQ0MzJNNHotemtDaFNXMFdGWi00TmhPTERzZ1AycHhyc2R3ak12cVB2aEFoeUFrOVV0MVJJWEF2eWI0V29sMmNrakpfUklRa1pJeUZ2OHpHVEoySEN4SkhEQQ?oc=5" target="_blank" rel="noopener"&gt;Reuters&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5yOTQwTzFYQWZObTc4R3NUblBlSWdheUhkY0NwUENlT0liLUNGU0JVRUtvU3lyLW5qbVdFMTI3dzhHY1Fnbk00djhXM1VfRmdsejlWaVMxbw?oc=5" target="_blank" rel="noopener"&gt;Answers(アンサーズ)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NBA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ジャズのヌルキッチ、右足第2趾の足底板を部分断裂&lt;/strong&gt;: ユスフ・ヌルキッチが負傷し、4週間後に再評価を受ける予定です。開幕前に離脱することになりました。&lt;a href="https://basketballking.jp/news/world/20261008/636718.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;VALORANT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Champions Shanghai 2026、VitalityがNongshimに勝利&lt;/strong&gt;: アッパーブラケット準々決勝でTeam VitalityがNongshim RedForceを2-1で下しました。プレーオフDAY2では100 Thieves対G2 Esportsも行われました。&lt;a href="https://www.vlr.gg/769104/team-vitality-keep-emea-hopes-alive-beat-nongshim-2-1" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1hYzd6bUR3T09WQV9wem9RT2RaVEJpaVVfTzhPZjRnOFRqTFBJak9KNXFIMlhSMG10N19KRzZ2SW11c09ITnhEcFRxc1dEYklrWnltWEtVSUZIMFNzMTM2c194U0QxekY5b0E?oc=5" target="_blank" rel="noopener"&gt;esportsnewsjapan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;頭部打撲後、頭部CTで頭蓋骨直下に凸レンズ型の高吸収域を認めた。意識清明期を伴うことがある。考えられる疾患はどれか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;急性硬膜下血腫&lt;/li&gt;
+&lt;li&gt;急性硬膜外血腫&lt;/li&gt;
+&lt;li&gt;くも膜下出血&lt;/li&gt;
+&lt;li&gt;慢性硬膜下血腫&lt;/li&gt;
+&lt;li&gt;脳挫傷&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 2. 急性硬膜外血腫&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;多くは頭蓋骨骨折に伴って中硬膜動脈が損傷し、頭蓋骨と硬膜の間に出血することで起こります。硬膜は頭蓋縫合部で頭蓋骨に強く付着しているため、血腫は縫合を越えて広がりにくく、CTで凸レンズ型を示します。受傷後に一時的に意識が回復する「意識清明期」を伴うことがあります。これに対し、急性硬膜下血腫は三日月型を示すのが典型です。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-09.mp3</guid>
+      <pubDate>Fri, 09 Oct 2026 06:16:41 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-09.mp3" length="2800224" type="audio/mpeg" />
+      <itunes:duration>467</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月8日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-08.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
