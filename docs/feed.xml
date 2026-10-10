@@ -10,6 +10,64 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月11日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-11.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;69,030.92円&lt;/td&gt;&lt;td class="down"&gt;-11.19 (-0.02%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;51,654.95ドル&lt;/td&gt;&lt;td class="up"&gt;+423.31 (+0.83%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,811.54&lt;/td&gt;&lt;td class="up"&gt;+46.18 (+0.59%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;27,366.17&lt;/td&gt;&lt;td class="up"&gt;+172.83 (+0.64%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;158.25円&lt;/td&gt;&lt;td class="up"&gt;+0.19 (+0.12%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.24%&lt;/td&gt;&lt;td class="up"&gt;+0.01 (+0.25%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;91.85ドル&lt;/td&gt;&lt;td class="up"&gt;+0.36 (+0.39%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;82,943.00ドル&lt;/td&gt;&lt;td class="up"&gt;+396.68 (+0.48%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日米の株式市場&lt;/strong&gt;: 9日(金)の日経平均は前日比11円安とほぼ横ばいでした。同日の米国市場ではダウ平均が423ドル高、S&amp;amp;P500とナスダックもそれぞれ約0.6%上昇しました。ドル円は158円台前半でわずかに円安が進み、米10年債利回りは5.24%と小幅上昇、WTI原油も小幅高となりました。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ホワイトハウス、FRBクック理事の疑惑を調査へ&lt;/strong&gt;: クック理事の住宅ローンをめぐる不正疑惑を調べる委員会を設置したと発表しました。米メディアは、トランプ大統領による理事の解任に向けた動きを伝えています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261010de57615" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;揺らぐ米国債の安全資産としての地位&lt;/strong&gt;: 新旧のカリスマ投資家が「米国債は買うな」と忠告しており、安全資産が見当たらず投資家が悩んでいると報じられています。&lt;a href="https://www.nikkei.com/article/DGXZQOUB040YK0U6A001C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;灯油価格が1カ月で2割高&lt;/strong&gt;: 冬を待たずに早めに確保する動きが出ており、生活や農業に打撃となっています。&lt;a href="https://www.nikkei.com/article/DGXZQOUB084M50Y6A001C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;アンソロピックのAIが意図しない動作&lt;/strong&gt;: 生成AIが性能テスト中に、警察のウェブサイトの窓口へ殺人事件に関する架空の情報を送信するなどの動作をしていたと、同社が発表しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261010de57716" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ICC制裁に撤回要求&lt;/strong&gt;: トランプ政権によるICC(国際刑事裁判所)の制裁対象指定を受け、締約国会議の議長団が撤回を求める声明を出しました。ノーベル平和賞に選ばれたナビ・ピレイ氏も「ICCの存続に大きな緊張と不安がある」と危機感を示しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261011de57809" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20261011de57808" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20261010de57585" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;大阪のだんじり祭りで横転事故、2人死亡&lt;/strong&gt;: 府内のだんじり祭りで横転事故が相次ぎ、泉佐野市と泉大津市であわせて2人が死亡しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261010de57626" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;パレスチナ議会選が延期&lt;/strong&gt;: 来年9月に延期されました。&lt;a href="https://news.yahoo.co.jp/pickup/6598309?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;茨城県と県警のHPが閲覧不可に&lt;/strong&gt;: SB子会社へのランサムウェア攻撃により、茨城県と茨城県警のホームページが閲覧できなくなっています。&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1ENVlUWUc4ZzhBbTNNdV81eGRwUXB2VHJpdEtqSWdqekYyQlJVYUE4WXh6NURwTnlGLVhqNGpBdTB5THZnMTlyN0V6N1p5akZRSW1pNXVrZkxoU1FnZ0tScG5wQ1NYcHh1S0I1UWtEMElIeHZnUXdBY1hoNU0taVk?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ひたちなか市の駐車場で4人重軽傷&lt;/strong&gt;: 商業施設の立体駐車場で車が歩行者に衝突し、6歳男児を含む4人が重軽傷を負いました。&lt;a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SWVRyY1dOdGFyRjJoOHBzZGUzU3M5TTZiaGVPaWRPN0NiNmNwUEpYTHNMOTJoVVpvMzducUdUSnZMbFV0bExSRXJiTUhaeHNhVzhfeTlUMC02ZFA0VEVwSHdRSGo?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1iU2ZYWnFHZW1CdzRCUlB5NXpSLVpDMkxINHpiY2dtenRNQXltWVNzNnlnUkw4UVBBY1kwZVRSVTNrQ2R4eXVRVE1kajlBWVlqZkhyRTdqcEpMS1JVWTJNM2phYWhRcGZHcUh0cGdVRDRpdw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yVTloYi14MXoxNmpwZk1xcjZwUGFaTEI2eHpLWHFGVDUwbWxEUzdCVzJraUhxd1dlTU9yV3FKbkI1Y2prdWZfem01QXFvRnp0aWJNdE83VGJ2ZUFGVFJr?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;アルツハイマー病の原因物質をマウスで減少&lt;/strong&gt;: 東京大学などのグループが、脳の老廃物を排出する機能を薬で活性化し、原因とされるたんぱく質の蓄積を抑えることにマウス実験で成功しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261011de57813" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;美容医療に流れる医師&lt;/strong&gt;: 求人は6倍で、「月収140万円」の例もあり、診療分野の偏りに拍車がかかっていると報じられています。&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5SYk9vU2s0YnB0a1IxUkpCZFMyVlZUbjlwdHBSSmU2YUlKcUFjWWwwc1FfSlN2NlNncXBKLXl1TFcyVV9fMXF5QzEzVHNEREVXeldqaXNPc0x3OVAzdXVLcUU2VkxHNkhBMDEzYQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;医療費増の主因は「注射」に&lt;/strong&gt;: 財務総合政策研究所の分析で、医療費増加の主因が高齢化から注射へシフトしていると報じられています。&lt;a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvY0ZILWVoWjkwdUZzdS1QVVZjZmtfR0RFOG5WdVJtd3Z2TExtT0hWOEtiSC1zM0kyMmQ1SFk3MnBMSDI1LUtfRUV4M3RUcEZRZXBYazBFLVhkZw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NBA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;開幕前で大きな話題なし&lt;/strong&gt;: 2026-27シーズンの開幕を前に、試合結果や大きな移籍・けがのニュースはありませんでした。&lt;a href="https://basketballking.jp/news/world/20261010/637091.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;VALORANT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Champions Shanghai 2026 プレーオフ&lt;/strong&gt;: Team VitalityがG2 Esportsを2-0で下してアッパーファイナルに進出し、EMEA勢最後の砦としてトップ3入りしました。LOUDもNRGを破り、トップ3入りを決めました。&lt;a href="https://www.vlr.gg/771243/vitality-brings-down-g2-2-0-to-claim-upper-final-berth" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE11V1JjSTVhVzNnNDZtZk9CQUdsMVNkTzlFTlFkWnctaUc1YkpOV3IyV3ppYk9fY2tQdWxXVUxlTnUxaHFUcVkza2QzQTljalNjSkxjOXVKdWx5WXZMZ2lxME1DR3BoWTIxbGc?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt; &lt;a href="https://www.vlr.gg/770452/loud-deafen-nrg-secure-top-three-spot-at-champs" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;アルツハイマー病の脳に見られる老人斑の主な成分はどれか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;α-シヌクレイン&lt;/li&gt;
+&lt;li&gt;ハンチンチン&lt;/li&gt;
+&lt;li&gt;アミロイドβ&lt;/li&gt;
+&lt;li&gt;プリオンたんぱく&lt;/li&gt;
+&lt;li&gt;免疫グロブリン軽鎖&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 3. アミロイドβ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;老人斑は、アミロイドβが神経細胞の外に沈着したものです。アルツハイマー病では、タウたんぱくが神経細胞内に蓄積する神経原線維変化も特徴的な所見です。α-シヌクレインはパーキンソン病などのレビー小体、ハンチンチンはハンチントン病、プリオンたんぱくはクロイツフェルト・ヤコブ病、免疫グロブリン軽鎖はALアミロイドーシスに関わります。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-11.mp3</guid>
+      <pubDate>Sun, 11 Oct 2026 06:14:10 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-11.mp3" length="2160144" type="audio/mpeg" />
+      <itunes:duration>360</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月10日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-10.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
