@@ -10,6 +10,72 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月15日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-15.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;67,744.29円&lt;/td&gt;&lt;td class="down"&gt;-33.23 (-0.05%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;51,621.48ドル&lt;/td&gt;&lt;td class="down"&gt;-48.62 (-0.09%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,718.94&lt;/td&gt;&lt;td class="down"&gt;-86.51 (-1.11%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;26,692.87&lt;/td&gt;&lt;td class="down"&gt;-511.51 (-1.88%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;158.28円&lt;/td&gt;&lt;td class="down"&gt;-0.24 (-0.15%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.19%&lt;/td&gt;&lt;td class="down"&gt;-0.03 (-0.52%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;95.17ドル&lt;/td&gt;&lt;td class="up"&gt;+1.03 (+1.09%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;81,709.42ドル&lt;/td&gt;&lt;td class="down"&gt;-1,385.71 (-1.67%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;東京株は小幅安、米ハイテク株に売り&lt;/strong&gt;: 日経平均株価は前日比33円安とほぼ横ばいでした。NYダウは48ドル安で続落し、ナスダック総合指数は1.88%、S&amp;amp;P500は1.11%下落しました。AI投資を巡る不透明感が重荷となり、米コアウィーブの社債急落がテック株売りに拍車をかけ、ナスダックは一時2%安となりました。&lt;a href="https://www.nikkei.com/article/DGXZQOFL1500M0V11C26A0000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt; &lt;a href="https://www.nikkei.com/article/DGXZQOGN14C260U6A011C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;米CPIが予想上回り、円は一時158円台後半&lt;/strong&gt;: 米9月の消費者物価指数の伸びが市場予想を上回り、円売り・ドル買いが進みました。円相場は一時1ドル＝158円台後半まで値下がりし、荒い値動きとなりました。終値ベースでは前日比でやや円高です。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de59540" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;FRB経済報告、物価加速の地区も&lt;/strong&gt;: FRBの最新の経済報告では、大半の地区で経済活動にわずかから中程度の成長がみられる一方、物価上昇のペースが加速した地区もありました。追加利上げの時期が焦点です。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de59538" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;原油は続伸&lt;/strong&gt;: フーシによるサウジアラビアへの攻撃激化を受け、原油は続伸しました。金は続落しました。&lt;a href="https://www.nikkei.com/article/DGXZQOFL14BGR0U6A011C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ワールドとTSIが経営統合で合意&lt;/strong&gt;: ワールドとTSIが経営統合で合意しました。&lt;a href="https://news.yahoo.co.jp/pickup/6598738?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Netflixが約1000人削減へ&lt;/strong&gt;: Netflixが従業員約1000人を削減する見通しです。&lt;a href="https://news.yahoo.co.jp/pickup/6598797?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 経済&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;簗農相が辞表提出、首相はきょう後任決定へ&lt;/strong&gt;: 地元の道路予算に関する発言など問題が相次いだ簗農林水産大臣が、内閣改造後わずか1か月で辞表を提出しました。高市総理大臣は15日中に後任を決める方針で、野党は任命責任を追及する構えです。コメ価格の乱高下や災害対応など、農業政策への影響は避けられない見通しです。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de59520" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6598790?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de59519" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ロシアが北海道新聞記者を拘束&lt;/strong&gt;: ロシアの治安機関が北海道新聞の記者を拘束したと発表しました。日本政府はロシア側に速やかな情報提供などを申し入れ、状況の確認を急いでいます。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de59523" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6598791?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;機雷接触の貨物船が沈没との報道&lt;/strong&gt;: 海峡で機雷に接触した貨物船が沈没したと報じられています。&lt;a href="https://news.yahoo.co.jp/pickup/6598794?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作家の黒井千次さん死去&lt;/strong&gt;: 「内向の世代」を代表する作家で文化功労者の黒井千次さんが12日、肺炎のため亡くなりました。94歳でした。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261014de59427" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;つくば市は朝から晴れ&lt;/strong&gt;: 15日のつくば市は最高22℃、最低15℃で、朝から晴れる予想です。&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9DdWFzbVRpbWdJdGhRemctTjY4VjE0OTN1RnZIOXhmdmRGTUZrMG5OMlFNWUt4azkxV3ZnLXl0VTZsRzQxbGpoMUY4REtJenpGR1MwZWM3TzNaRHVmVmw4T0JNMXh1OXNDOHc4VWFJb29WTlZkRExKTUd5eWhVWnc?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;防災メールの利用情報流出か&lt;/strong&gt;: 茨城県と4市町で防災メールの利用情報が流出した可能性があり、利用を停止した自治体もあります。&lt;a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE10TzB1WDNhZW5VNTk0M25Na0dIYmFxbVZjbGxkcy1TUXgxRzdINEJOQ0FHdnZhSmRZRENGeE92c0hPVnFteVRUZ2EzRjNwZW9CcURwX1Q5SkJzQVpSbXhlYURlOWh4S3NMZGNtT2xoUHhLbGs?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;常陸大宮市が核ごみ文献調査で号外広報&lt;/strong&gt;: 常陸大宮市が核ごみの文献調査について号外広報を出し、市長が疑問にQ＆A形式で答えています。&lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtanZ0Y2drbjJaczVRSXVkTVV2MElqOWViSWxKUzJwUTJNLXFQNGZNcHZCYVZocHp0alA1UjFJMklzdGNVUlAxb3dfV05BUDQyUFhwbUNUVkhQSFVrX21JdTNjWE1GaEU?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;水戸2児殺害、母親が起訴内容認める&lt;/strong&gt;: 水戸地裁での初公判で、母親が起訴内容を認めました。&lt;a href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRjBlVmhlWmxWSUhPNXprdGlkVlRSdVNLVFlHekw5SWNmSEloOGlPTkpmN0FpNzZwVVd6YnpaLUhFdmxQOWVacjZ1U1ZZWTZlclRGZ3JzbXJseXNfUkdFZUV4OHNLZThGTG54dFdmSF9NNkk?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;75歳以上の医療費負担に金融所得を反映&lt;/strong&gt;: 厚生労働省は、75歳以上の医療費負担について、2029年8月から金融所得を反映させる方針です。&lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5FZlQzWmZ6N3lfbkhuRnV6ZjByOUxIVzNmVGhaaDNkLWFURzZUQ2RiQzF0MjFOSnprWDA3ZG9fQS12MC1qYWo3QTRQdXdZRk5wLVRqdFVHZTBISVBFRzZQSjhHR0NYUEVISU5oZA?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国内初、遠隔で手術ロボット操作し支援&lt;/strong&gt;: 弘前大学などが、離れた場所の医師が手術用ロボットを操作して手術を支援する臨床研究を実施したと発表しました。ロボットを使った遠隔での手術参加は国内初です。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261014de59458" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;訪問介護の介護報酬を抜本見直しへ&lt;/strong&gt;: 利用者が分散しているとヘルパーの移動に時間がかかり、事業者の経営を圧迫していることから、厚生労働省は訪問介護の介護報酬の枠組みの抜本的な見直しを検討しています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de59521" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMDZJX3RKNlRqaEEzRjgxNlpSYnZfRDVBOTk1OXN1R2F2UXoycV9MdklCSjh2WTBLOG1LU0VsaE9yRWhsOEZELWZTaGtrYzRPX3ZISUpHMW95NC0zRk53?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NBA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;プリチャードがセルティックスと契約延長&lt;/strong&gt;: ボストン・セルティックスのペイトン・プリチャードが、球団との契約延長に合意したと伝えられています。&lt;a href="https://basketballking.jp/news/world/20261014/637637.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ポルジンギスの復帰は依然不透明&lt;/strong&gt;: 離脱が続くウォリアーズのクリスタプス・ポルジンギスがチーム施設を訪れましたが、復帰は依然不透明です。&lt;a href="https://basketballking.jp/news/world/20261014/637785.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ニックスはプレシーズン4戦全敗&lt;/strong&gt;: ニックスはラプターズにも敗れてプレシーズン4戦全敗となりました。HCはプロセスを重視する姿勢です。&lt;a href="https://basketballking.jp/news/world/20261014/637780.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;河村勇輝、契約解除もNBA挑戦続く&lt;/strong&gt;: 河村勇輝は契約解除となりましたが、NBAへの挑戦は続いていると伝えられています。&lt;a href="https://basketballking.jp/news/world/20261014/637667.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;VALORANT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Champions Shanghai 2026、プレーオフDAY5&lt;/strong&gt;: プレーオフ5日目は、NRG対100 Thieves、G2 Esports対T1の試合が行われました。&lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9YUDRMS2FWOUhxMUdDOThmalBFdDRPYlh1SWtncENxa3JtN1lhMGVxaUh6SUVjSmRLdmxVRlZUckNUS2QxZk5pQU1NSjNZNUtPOERScGM4eE5PT3pxZnd4ZDZRVjBqVElKOXc?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;zanderがShopify Rebellion Blackを離脱へ&lt;/strong&gt;: 1シーズン在籍したzanderがSRBを離れ、フリーエージェントになる見通しです。&lt;a href="https://www.vlr.gg/772672/zander-set-to-leave-shopify-rebellion-black-after-one-year" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;訪問介護のニュースにちなんだ問題です。介護保険で、第1号被保険者となるのは何歳以上の人でしょうか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;40歳以上&lt;/li&gt;
+&lt;li&gt;60歳以上&lt;/li&gt;
+&lt;li&gt;65歳以上&lt;/li&gt;
+&lt;li&gt;70歳以上&lt;/li&gt;
+&lt;li&gt;75歳以上&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 3. 65歳以上&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;介護保険の被保険者は、65歳以上の第1号被保険者と、40〜64歳の医療保険加入者である第2号被保険者に分かれます。第2号被保険者は、加齢に伴う特定疾病が原因で要介護・要支援状態になった場合にサービスを利用できます。75歳以上は後期高齢者医療制度の対象年齢で、介護保険とは別の制度です。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-15.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 06:26:01 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-15.mp3" length="2854656" type="audio/mpeg" />
+      <itunes:duration>476</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月14日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-14.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
