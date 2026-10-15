@@ -10,6 +10,70 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月16日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-16.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;64,425.95円&lt;/td&gt;&lt;td class="down"&gt;-3,318.34 (-4.90%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;52,177.69ドル&lt;/td&gt;&lt;td class="up"&gt;+556.21 (+1.08%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,744.06&lt;/td&gt;&lt;td class="up"&gt;+25.12 (+0.33%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;26,713.03&lt;/td&gt;&lt;td class="up"&gt;+20.16 (+0.08%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;157.96円&lt;/td&gt;&lt;td class="down"&gt;-0.36 (-0.23%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.09%&lt;/td&gt;&lt;td class="down"&gt;-0.10 (-1.95%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;96.12ドル&lt;/td&gt;&lt;td class="up"&gt;+1.03 (+1.08%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;82,188.98ドル&lt;/td&gt;&lt;td class="up"&gt;+626.49 (+0.77%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日経平均が3318円安、過去3番目の下げ幅&lt;/strong&gt;: 15日の東京市場で日経平均株価は前日比3,318円安と急落しました。終値は64,425円、下落率は4.90%で、下げ幅は過去3番目の大きさです。&lt;a href="https://news.yahoo.co.jp/pickup/6598878?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;米国株はダウが上昇、半導体株は続落&lt;/strong&gt;: 15日のニューヨーク市場ではダウ平均が556ドル高となりました。S&amp;amp;P500も上昇した一方、ナスダックはほぼ横ばいでした。医療株などに資金が移り、半導体株は続落したと報じられています。&lt;a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPMVBrZ3hvak1oWkpTNVVZMm9ReC1pQUJPTl9kbE9ETGJrdFJXZFh4MjVfWXBMWlpoVjJvNGhnWWFUMUNndXZOcmdscnNLY0NHaGtzLXI5V2V3eElWeTZEbGk1c083bHlDTUIta0djVEs1WlRBV1RxaEpMWWdNc0diSFI5dWRUUQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;為替・金利・商品&lt;/strong&gt;: ドル円は157円台後半とやや円高に振れました。米10年国債利回りは5.09%に低下しています。WTI原油先物は96ドル台に上昇し、ビットコインも小幅高でした。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CoreWeaveに債務不履行懸念&lt;/strong&gt;: 米CoreWeaveについて、金融市場が「債務不履行6割」を織り込んでいると報じられ、AI関連債務への懸念が出ています。&lt;a href="https://www.nikkei.com/article/DGXZQOGN15BWE0V11C26A0000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;G20閉幕、共同声明なし&lt;/strong&gt;: タイで開かれたG20財務相・中央銀行総裁会議が15日に閉幕しました。インフレや金利上昇による世界経済の下振れリスク、高性能AIの悪用への懸念が相次ぎましたが、共同声明は出されませんでした。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60163" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日韓通貨スワップ延長で合意&lt;/strong&gt;: 片山財務相はタイで韓国の副首相兼財政経済相と会談しました。市場混乱時などに通貨を融通する通貨スワップ協定の延長で合意しています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de60139" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;米年末商戦は4%増の予測&lt;/strong&gt;: 米小売業の業界団体は、2026年の年末商戦の売り上げが前年比4%あまり増えるとの予測を発表しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60164" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ニデック、5期連続の違法配当&lt;/strong&gt;: ニデックで5期連続の違法配当があったと報じられました。取締役の責任を問う訴訟に発展する可能性があります。&lt;a href="https://www.nikkei.com/article/DGXZQOUB059E20V01C26A0000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;台風30号、非常に強い勢力に発達へ&lt;/strong&gt;: 15日に発生した台風30号は日本のはるか南東を西へ進んでおり、非常に強い勢力に発達する見込みです。来週以降の進路は不確実ですが、日本に近づくおそれもあります。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60169" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;農水相交代で与野党の攻防&lt;/strong&gt;: 与党は食料品の消費税減税関連法案の早期審議入りを目指しています。野党は高市首相の任命責任を追及する構えです。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60159" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ソースネクストで2251万件の個人情報流出か&lt;/strong&gt;: 会員情報管理システムが不正アクセスを受け、顧客情報が流出した可能性があります。電子書籍の「コミックシーモア」も、不正アクセスの可能性が高いとしてサービスを停止しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de60043" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de60114" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トランプ大統領、死刑執行の配信計画を撤回&lt;/strong&gt;: 軍基地で兵士13人を殺害し死刑判決を受けた元軍医について、刑の執行をライブ配信する計画を撤回しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60166" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6598936?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;うるう秒廃止、うるう時を導入へ&lt;/strong&gt;: うるう秒を廃止し、うるう時を導入することが決まりました。&lt;a href="https://news.yahoo.co.jp/pickup/6598933?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;常陸大宮市で核のごみ文献調査開始&lt;/strong&gt;: 最終処分場をめぐる文献調査が本州で初めて始まりました。市長が先月、受け入れを表明していました。&lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE93VUJLT2E0UWlwYm5wa3NvVVQzRk9RMENBeko1R1lJa0FFNDJmOWtIRURpM3FwaGVPS0sxa0luaUNsbUpKM05iZ1BiSDVQOFNMSW4yaGFrcw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;茨城県防災情報に不正アクセス&lt;/strong&gt;: メールアドレス1万8564件が漏えいした可能性があります。&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFB4TTdJdFJiRmlnTnVGd3ktWVFFSHo1SEVQcHZ1dXlCSUExS2M4NFU1Z3VxZVBBUGd4aHRNN3ljQWVheEpPQ0Y0N0ZpaWNtZEpvdzlEQS0zS3FqUnlaQmVVeTlhcEhNU1NFSWMtTl9aRVZfN2g0X05WbUZIcEFaOTA?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ステミラック、条件付きから初の本承認へ&lt;/strong&gt;: 厚労省の専門部会は、脊髄損傷の再生医療製品「ステミラック」について、新たなデータで有効性などを確認したとして本承認を了承しました。ニプロは2029年をめどに黒字化を見込んでいます。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261015de60116" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9YTXJuYUlNZUl0V0tid3E0bkFxblBRaUo2RmJMN1hTM09Vcmtaamd5a21UZERPb0VvMG84Z3B3eTBjd2FWb3RaLXY3V01zRy05UlBTVDNyRGt5WkFZU1Y0MEJCdURtQ1RXbDlaWQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;後期高齢者の負担に金融所得を反映へ&lt;/strong&gt;: 厚労省は、医療費の窓口負担や保険料に金融所得を反映させる方針で、2029年8月からの実施を目指しています。&lt;a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IV0FBWU1fNUh3V2MzZVB6eUVvekR5SC00VFpUZE9Denk3UlpXYng3LUx3bGNzdXJBQ1V2OHBQbDZWYXZJeVkxRDZKM0lXZU0zSVNTbFdrTy1qS3M2a1JGd1lIRDJ6QQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NBA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;カーHC、ウォリアーズの攻撃に苦言&lt;/strong&gt;: スティーブ・カーHCは新シーズンのオフェンスについて「目指すところには程遠い」と厳しく評価しました。&lt;a href="https://basketballking.jp/news/world/20261015/637803.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;VALORANT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Champions Shanghai 2026、プレーオフ開幕&lt;/strong&gt;: DAY1はNRG vs T1、Paper Rex vs LOUDのカードが組まれました。&lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5XMEpDNlFPa3I1YlpORWh6ZmI0eUlpejBIZzVVdlY2QUtBUGJLaFViMWZxenJMSkRvVEdDRHdGaXNxYXNFVkJUZWF5MWZVdW43Q3dsWmYzdWQzWXlUb0FNcy1oMTFsdVVCbHc?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;VCT 2027の開催地発表&lt;/strong&gt;: VCT Mastersはソウル、VCT Pacificは東京とマニラでの開催が発表されました。開催地は全15か所で、バレンシアやオースティンなども含まれます。&lt;a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5scF85M0xpTHlwZjgwck14Vy1OaEQ3dDlFV0VxOWJZTDUtUkJQeE85bzlPX1dvNl9HMkxjcnB6ek9JTzNic2swTHdtdmZnOHRWbkR6UGdZdGJ6b2hCRVB5X2pVQQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt; &lt;a href="https://www.vlr.gg/773083/seoul-val-ncia-austin-among-15-vct-2027-host-locations" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Team Liquid、nAtsの移籍交渉を容認&lt;/strong&gt;: 4シーズンにわたりIGLを務めたnAtsについて、他チームとの交渉を認めました。&lt;a href="https://www.vlr.gg/773068/team-liquid-allows-nats-to-explore-options-after-four-seasons" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;横隔膜を支配する横隔神経は、主に脊髄のどの高さから出ているか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;第1〜第2頸髄&lt;/li&gt;
+&lt;li&gt;第3〜第5頸髄&lt;/li&gt;
+&lt;li&gt;第7頸髄〜第1胸髄&lt;/li&gt;
+&lt;li&gt;第5〜第8胸髄&lt;/li&gt;
+&lt;li&gt;第1〜第3腰髄&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 2. 第3〜第5頸髄&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;横隔神経は主にC3〜C5から起こり、横隔膜を支配します。そのため高位頸髄損傷では横隔膜の麻痺による呼吸障害が起こりえます。この場合、人工呼吸管理が必要になることがあります。脊髄損傷では、損傷の高さによって症状が大きく異なります。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-16.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 06:27:53 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-16.mp3" length="2784384" type="audio/mpeg" />
+      <itunes:duration>464</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月15日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-15.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
