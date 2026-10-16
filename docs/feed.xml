@@ -10,6 +10,66 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月17日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-17.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;65,324.29円&lt;/td&gt;&lt;td class="up"&gt;+898.34 (+1.39%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;52,002.41ドル&lt;/td&gt;&lt;td class="down"&gt;-175.28 (-0.34%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,659.44&lt;/td&gt;&lt;td class="down"&gt;-84.62 (-1.09%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;26,140.03&lt;/td&gt;&lt;td class="down"&gt;-573.00 (-2.15%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;157.99円&lt;/td&gt;&lt;td class="up"&gt;+0.03 (+0.02%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.10%&lt;/td&gt;&lt;td class="up"&gt;+0.01 (+0.18%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;99.04ドル&lt;/td&gt;&lt;td class="up"&gt;+1.07 (+1.09%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;81,669.94ドル&lt;/td&gt;&lt;td class="down"&gt;-471.52 (-0.57%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日経平均は大幅高、米国株は下落&lt;/strong&gt;: 16日の東京市場で日経平均株価は前日比898円高と大きく上昇しました。一方、16日の米国市場はダウ平均、S&amp;amp;P500、ナスダックがそろって下落し、特にナスダックは2%を超える下げとなりました。ドル円はほぼ横ばい、米10年国債利回りとWTI原油先物は小幅に上昇しています。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;欧州株は続伸&lt;/strong&gt;: 16日のドイツ株は続伸して1カ月ぶりの高値となり、自動車株に買いが入りました。ロンドン株も続伸し、ディフェンシブ銘柄が買われて1カ月半ぶりの高値をつけました。&lt;a href="https://www.nikkei.com/article/DGXZQOFL16BS20W6A011C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt; &lt;a href="https://www.nikkei.com/article/DGXZQOFL16BS10W6A011C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日銀・植田総裁「物価2%超の上昇容認せず」&lt;/strong&gt;: 植田総裁は訪問先のタイで会見し、基調的な物価上昇率が2%に近づいているとしたうえで、2%以上の上昇は容認できないと強調しました。物価が大幅に上昇するリスクに警戒しながら、今後も利上げを進める考えです。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60794" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;トヨタ、全車種をSDVに&lt;/strong&gt;: トヨタ自動車は2030年までにすべての車種にソフトウエアの基盤を搭載し、次世代の車「SDV」にする方針です。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60779" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;東海道新幹線のぞみ、来年値上げへ&lt;/strong&gt;: 東海道新幹線「のぞみ」が来年値上げされる見通しと報じられています。&lt;a href="https://news.yahoo.co.jp/pickup/6598992?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 経済&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;緊急地震速報の誤発表、遠方観測点のデータ使用が原因&lt;/strong&gt;: 16日、北海道から東海にかけての広い範囲で緊急地震速報が誤って発表されました。気象庁は、本来使われないはずの震源から遠く離れた観測点のデータを使うミスがあったと明らかにしました。過去の対策が機能しなかったとして調査しています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60797" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6599044?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;台風30号、非常に強い勢力に発達の見込み&lt;/strong&gt;: 強い台風30号は日本のはるか南東の海上を西寄りに進んでおり、今後、非常に強い勢力に発達する見込みです。来週の進路予想には幅があり、気象庁は今後の情報に注意するよう呼びかけています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60802" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;消費税減税法案が来週審議入り&lt;/strong&gt;: 食料品の消費税減税関連法案が来週審議入りします。与党は多くの党の理解を得て成立を図りたい考えで、野党は財源や所得に応じた支援金の対象を示すよう求める構えです。政府は、2027年4月からの減税で影響を受ける農家などに、売り上げの5%程度の給付金を支給する方向で検討しています。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60791" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60762" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;茨城の養豚場で豚熱、国内108例目&lt;/strong&gt;: 茨城県内の養豚場で豚熱が確認されました。国内で108例目です。&lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jQVJaTFpZTS1OZU9DTURLMnlzMUdfcWFiS0o3ZE9XdG5RM1h1Z0lVTVhtemRiT2VWS0xLbnlMZFVqb2txN0JoZUd1dUhpMmN3VFA3ajU0Zw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日立市の住宅で夫婦の遺体&lt;/strong&gt;: 日立市の住宅で夫婦の遺体が見つかったと速報で伝えられています。&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBOVTc1QmNKd0FWSllOa1dsYUg0Sk4tTUZHR2ROVzNzNFByUE9GWU9tb3RXcVR6V2Y5U21ucFRwX0NsLXNxR2xmQkFqSC1VYXVYMFNqQVFyNEdDN3FBWmZ0X1paZmNFZ3NzR1hlLW5GX2EydVViai1PNHVJa1ZLSFU?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;iPS細胞治療、保険適用後初の手術&lt;/strong&gt;: 京都大学の山中伸弥教授は16日、NHKのインタビューで、iPS細胞の治療が保険適用されてから初めての手術が先月行われたことについて「世界初で大きな一歩だ」と評価しました。&lt;a href="https://news.web.nhk/newsweb/na/nd-20261016de60674" target="_blank" rel="noopener"&gt;NHK 科学・文化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;後期高齢者の金融所得を医療費負担に反映へ&lt;/strong&gt;: 厚生労働省は、後期高齢者の金融所得を医療費の負担に反映させる仕組みを2029年夏に始める方向です。&lt;a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1BM0dwaVpVUklkSERaWl9BYm0xalA3d0ZzcTFpeHNDd0Y2eFJleVFMWU9ZcXJ6d0lQM05vNm5jbDk0Qm1nT25OWmpVWWc5WmZCNng2bE1qSVFYeDBBZHVzbXFUNmN5clkxRUM1YWN1ZVQydw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;不正アクセスで最大787医療機関の情報漏えいか&lt;/strong&gt;: 不正アクセスにより最大787の医療機関で情報が漏えいした可能性があると報じられています。病院の予約システムがダウンし、すべて電話対応になるなど医療現場にも影響が出ています。&lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTlREOW9FbmpsN2hXT08tTUNvT1llR09kZ3ItbGQyaEFnUjM2dkFPZUJMV081Ni1UU1VWeDhJQ3MxSmhpMTlpOXBOMWZMYmJuTWFZYWlEamRndUsxQ29VUjc0a05mVU9BRzlZMDhQYnUxdjBnVEZENFJjWkJabzA?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;NBA&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GMサーベイ、スパーズが優勝候補筆頭&lt;/strong&gt;: 2026-27シーズンの開幕を約1週間後に控え、NBA.comで全30チームのGMを対象とした「GMサーベイ」が公開されました。優勝候補の筆頭にはスパーズが挙がり、選手編ではヨキッチがベストパサーやIQなどの項目でトップとなりました。&lt;a href="https://basketballking.jp/news/world/20261016/637906.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt; &lt;a href="https://basketballking.jp/news/world/20261016/637908.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NBA公式Instagramにハッキング被害&lt;/strong&gt;: NBAの公式Instagramアカウントがハッキングされ、偽の暗号資産「NBAコイン」が宣伝されました。昨年も同様の詐欺がありました。&lt;a href="https://basketballking.jp/news/world/20261016/637931.html" target="_blank" rel="noopener"&gt;バスケットボールキング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;VALORANT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Champions Shanghai、LOUDが決勝進出&lt;/strong&gt;: LOUDがTeam Vitalityを2-1で破り、グランドファイナル進出を決めました。&lt;a href="https://www.vlr.gg/773533/revenge-is-sweet-loud-advances-to-shanghai-grand-final" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE84VjRQWGswX2xubWE3Ul83VGw5YmplMkQySXhUZ3pWeExjVEtDOFlhV0JuNDdzQzJGY3dyT1N0Zy0tZ0IyWHJOQWRibFhSWG55SlBUUzljQnd6c2lidnA2aUpUQlJia3cz0gFoQVVfeXFMTzhWNFBYazBfbG5tYTdSXzdUbDliamUyRDJJeFRnelZ4TGNUS0M4WWFXQm40N3NDMkZjd3JPU3RnLS1nQjJYck5BZGJsWFJYbnlKUFRTOWNCd3pzaWJ2cDZpSlRCUmJrdzM?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;100 ThievesがG2を下し、ロワー決勝へ&lt;/strong&gt;: 100 ThievesがG2 Esportsを破りました。17日のロワー決勝でTeam Vitalityと対戦します。&lt;a href="https://www.vlr.gg/774395/100-thieves-rob-g2-of-champions-shanghai-dreams" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE84VjRQWGswX2xubWE3Ul83VGw5YmplMkQySXhUZ3pWeExjVEtDOFlhV0JuNDdzQzJGY3dyT1N0Zy0tZ0IyWHJOQWRibFhSWG55SlBUUzljQnd6c2lidnA2aUpUQlJia3cz0gFoQVVfeXFMTzhWNFBYazBfbG5tYTdSXzdUbDliamUyRDJJeFRnelZ4TGNUS0M4WWFXQm40N3NDMkZjd3JPU3RnLS1nQjJYck5BZGJsWFJYbnlKUFRTOWNCd3pzaWJ2cDZpSlRCUmJrdzM?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;iPS細胞の作り方として、正しいものはどれか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;受精卵から育った初期胚の内部細胞塊を取り出して作る。&lt;/li&gt;
+&lt;li&gt;皮膚などの体細胞に、少数の特定の因子を導入して作る。&lt;/li&gt;
+&lt;li&gt;骨髄にもともと存在する幹細胞を、そのまま取り出して作る。&lt;/li&gt;
+&lt;li&gt;胎盤の組織から取り出して作る。&lt;/li&gt;
+&lt;li&gt;臍帯血から分離して作る。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;iPS細胞(人工多能性幹細胞)は、皮膚や血液などの体細胞に少数の特定の因子を導入して作ります。これにより、さまざまな細胞に分化できる多能性を持つ状態に戻します。ヒトiPS細胞は、2007年に山中伸弥教授らのグループが作製を報告しました。選択肢1はES細胞(胚性幹細胞)の作り方です。受精卵(胚)を使わずに作製できることが、iPS細胞の大きな特徴です。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-17.mp3</guid>
+      <pubDate>Sat, 17 Oct 2026 06:24:07 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-17.mp3" length="2535840" type="audio/mpeg" />
+      <itunes:duration>423</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月16日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-16.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
