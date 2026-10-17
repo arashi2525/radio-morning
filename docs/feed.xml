@@ -10,6 +10,63 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
     <item>
+      <title>2026年10月18日のニュース</title>
+      <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-18.html</link>
+      <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
+      <content:encoded>&lt;h2&gt;マーケット概況&lt;/h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指標&lt;/th&gt;&lt;th&gt;値&lt;/th&gt;&lt;th&gt;前日比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;日経平均株価&lt;/td&gt;&lt;td&gt;65,324.29円&lt;/td&gt;&lt;td class="up"&gt;+898.34 (+1.39%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ダウ平均株価&lt;/td&gt;&lt;td&gt;52,002.41ドル&lt;/td&gt;&lt;td class="down"&gt;-175.28 (-0.34%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;S&amp;amp;P500&lt;/td&gt;&lt;td&gt;7,659.44&lt;/td&gt;&lt;td class="down"&gt;-84.62 (-1.09%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ナスダック総合指数&lt;/td&gt;&lt;td&gt;26,140.03&lt;/td&gt;&lt;td class="down"&gt;-573.00 (-2.15%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ドル円&lt;/td&gt;&lt;td&gt;157.99円&lt;/td&gt;&lt;td class="up"&gt;+0.03 (+0.02%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;アメリカ10年国債利回り&lt;/td&gt;&lt;td&gt;5.10%&lt;/td&gt;&lt;td class="up"&gt;+0.01 (+0.18%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;WTI原油先物&lt;/td&gt;&lt;td&gt;99.02ドル&lt;/td&gt;&lt;td class="up"&gt;+1.05 (+1.07%)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ビットコイン&lt;/td&gt;&lt;td&gt;81,515.35ドル&lt;/td&gt;&lt;td class="up"&gt;+14.55 (+0.02%)&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+&lt;p class="meta"&gt;各市場の直近の終値(取引中のものは現在値)。出典: Yahoo Finance&lt;/p&gt;
+&lt;h2&gt;金融・マーケット&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;東京株は大幅高、NY株は下落&lt;/strong&gt;: 16日(金)の東京市場で日経平均株価は898円高の6万5324円と上昇した一方、同日のニューヨーク市場はダウ平均、S&amp;amp;P500、ナスダックがそろって下落した。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ナスダック2%超安、AI関連の債務懸念&lt;/strong&gt;: AI関連企業の過剰債務などへの懸念からハイテク株に売りが広がり、ナスダック総合指数は2%を超える大幅安となった。週間の下落率はおよそ4.5%。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60816" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;コアウィーブ株12%安&lt;/strong&gt;: 米コアウィーブ株は12%下落して売りがやまず、財務体質によってAI銘柄を選別する動きが鮮明になっている。 &lt;a href="https://www.nikkei.com/article/DGXZQOGN15CHT0V11C26A0000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;円相場は横ばい&lt;/strong&gt;: NY円相場は1ドル=157円95銭〜158円05銭で横ばい。米国の利上げ観測後退が円の支えとなる一方、原油高が重荷となった。 &lt;a href="https://www.nikkei.com/article/DGXZQOFL16BQ50W6A011C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;欧州原油先物が一時110ドル&lt;/strong&gt;: 中東で再び供給懸念が高まり、欧州の原油先物が一時110ドルと5月以来の水準をつけた。WTI原油先物も1ドルあまり上昇した。 &lt;a href="https://www.nikkei.com/article/DGXZQOGN16CB60W6A011C2000000/" target="_blank" rel="noopener"&gt;日経 マーケット&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;米財政赤字314兆円、過去3番目&lt;/strong&gt;: アメリカの9月までの1年間の財政赤字は日本円で314兆円にのぼり、2020年度・21年度に次ぐ過去3番目の大きさとなった。金利上昇に伴う利払い費の増加などが背景。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60820" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;スカイチケットでカード情報流出&lt;/strong&gt;: 旅行サイト「スカイチケット」を運営するアドベンチャーが不正アクセスを受け、最大6000人余りのクレジットカード情報が流出したと発表した。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de60862" target="_blank" rel="noopener"&gt;NHK 経済&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;一般ニュース&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;台風30号が急発達、23日ごろ沖縄の南へ&lt;/strong&gt;: 非常に強い台風30号が日本のはるか南の海上を急速に発達しながら西寄りに進んでいる。23日(金)ごろに沖縄の南の海上に達する予想だが、その後の進路予測は定まっておらず、気象庁は今後の情報に注意を呼びかけている。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261018de61065" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;墜落したグローバルホーク、胴体の一部を引き揚げ&lt;/strong&gt;: 先月鳥取県沖で墜落した航空自衛隊の大型無人偵察機「グローバルホーク」について、自衛隊は17日、現場周辺の海底から機体の胴体の一部を引き揚げた。機体を分析し、詳しい原因を調べる方針。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de61020" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt; &lt;a href="https://news.yahoo.co.jp/pickup/6599163?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;西条まつりで副市長が死亡&lt;/strong&gt;: 17日午後、愛媛県西条市の「西条まつり」で、太鼓台の担ぎ手として参加していた西条市の副市長が倒れてきた太鼓台の下敷きになり死亡した。警察が当時の状況を調べている。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261018de61058" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;調布の道路陥没から6年&lt;/strong&gt;: 東京外かく環状道路のトンネル工事が原因で調布市の住宅街に道路陥没が見つかってから18日で6年。地盤補修は約8割の範囲で終わったが、当初の予定より遅れ、完了のめどは立っていない。 &lt;a href="https://news.web.nhk/newsweb/na/nd-20261017de61038" target="_blank" rel="noopener"&gt;NHK 主要&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;関東で今季初の冬日&lt;/strong&gt;: 栃木県日光市で、関東で今季初めての冬日となった。 &lt;a href="https://news.yahoo.co.jp/pickup/6599179?source=rss" target="_blank" rel="noopener"&gt;Yahoo!ニュース 主要&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;つくば・茨城&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ひたちなか市の海岸で男女2人が溺れ死亡&lt;/strong&gt;: ひたちなか市の海岸で「高齢者2人が溺れている」と通報があり、男女2人が救助されたが意識のない状態で病院に搬送され、その後死亡した。 &lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QYXI0NHI3blNyM2FVOXlsU045cmpLWlVZSUtHZVdwVUZwQjd0b202NHpPbjhGMUFmcUVad0Rkd0xHX1F5MkQza0Y5SVhBWkh2UVBnVmFHSG9xUlBVQThv?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqOURYNUZtUlA2NmN3dWFxajlFNzZJaGkzcmh3VVNQbEQtR2xVVEh0Mm9veWtocENzYVFnRFh3aklvQTVWNkZLZ2dBZDJ6Zl9ObTE3M05kMA?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cl9IVnpEcE9sVm82Zkd0Q2xlbXdROGdTQWJoYlI5ZmlPeGpmMS1LVm5wUlVQQ3REZ3hEckpIRV9temZNclZOMksxQktZc09QM0U3blJjZjZ5OGFEaEhfZEJya2xDOElQQXBzX2NfTGkxYTR0YWxfLV9kMGM4UE0?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(つくば・茨城)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医学・医療&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;支援ロボットによる遠隔手術、国内初の臨床研究&lt;/strong&gt;: 手術支援ロボットを使った遠隔手術について、弘前大学と外科学会による国内初の臨床研究が報じられた。 &lt;a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDeXBDWHVINTRpYmFLLWlKZERCODBTcWVYbVNiUEhMejRDVVM0TlhEVUZVaWJxakJzeUxPUXdKdnZKeHNmRWQtdTgwclF6VnREeUlGbHh4RXNvLXJfM2Q5TnZTV01ZZ1U?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生薬原料の栽培が一転増加&lt;/strong&gt;: 医療現場で漢方の需要が拡大していることを受け、生薬の原料となる植物の栽培が一転して増加している。 &lt;a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnRExYVnd6ekpYWXFmbktKVDJwYXlORGFTWG9zclkzVi1aLXVwdUhPVDlDVDA2YXZIMDdPd28yUm5HSGdTQ05vVU9YRWMzb1hPY0pTM2dpd3lyUQ?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(医療)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;VALORANT&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vitalityが100 Thievesに3-1、グランドファイナルで再戦へ&lt;/strong&gt;: VALORANT Champions Shanghai 2026のLower Finalsで、Team Vitalityが100 Thievesを3-1で破り、再戦となるグランドファイナルへの進出を決めた。 &lt;a href="https://www.vlr.gg/775176/vitality-books-grand-final-rematch-with-3-1-over-100-thieves" target="_blank" rel="noopener"&gt;VLR.gg&lt;/a&gt; &lt;a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE15VHA3cWh2eHcwWGRwM0psUmlIRGFoOUR5N0dpMkZ3S2dwcW1lVkhqR2YteWM0eWU0NG4zaGM4SXJWVWpPR2lYLTFYejdRQmp2WTZTN2tOcTNZOE5vQWdNcHNXS1VnbUdZaHc?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;G2がChampions最高成績でシーズン終了&lt;/strong&gt;: G2 EsportsはChampionsでチーム最高成績を残し、2026シーズンを終えた。babybayは「僕らは一度も諦めなかった」と語った。 &lt;a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtMnV2eF9xUDgzY2k1OFpNcUFJWmZsMkhoakJCbzlBWnZGcXFtX0t0WWl5OHRuNlRLY21XR2JHZmRtS2g4amJJMTVHWF9WRUx1eUJ6M0l3UFhsU3VENU5nYTN1bw?oc=5" target="_blank" rel="noopener"&gt;Google ニュース(VALORANT)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;医師国家試験ミニクイズ&lt;/h2&gt;
+&lt;p&gt;多くの漢方薬に含まれる生薬「甘草」の副作用として知られる偽アルドステロン症で、みられる検査所見はどれか。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;高カリウム血症&lt;/li&gt;
+&lt;li&gt;低カリウム血症&lt;/li&gt;
+&lt;li&gt;低血糖&lt;/li&gt;
+&lt;li&gt;高カルシウム血症&lt;/li&gt;
+&lt;li&gt;低ナトリウム血症&lt;/li&gt;
+&lt;/ol&gt;
+&lt;details&gt;&lt;summary&gt;正解と解説を見る&lt;/summary&gt;
+&lt;p&gt;&lt;strong&gt;正解: 2. 低カリウム血症&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;甘草の主成分グリチルリチンは、アルドステロンが過剰なときと似た状態を引き起こします(偽アルドステロン症)。ナトリウムと水が体に貯留し、カリウムが失われるため、高血圧、浮腫、低カリウム血症による脱力などがみられます。複数の漢方薬を併用すると甘草の量が増えるため注意が必要です。&lt;/p&gt;
+&lt;/details&gt;</content:encoded>
+      <guid isPermaLink="true">https://arashi2525.github.io/radio-morning/episodes/2026-10-18.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 06:21:03 +0900</pubDate>
+      <enclosure url="https://arashi2525.github.io/radio-morning/episodes/2026-10-18.mp3" length="2507760" type="audio/mpeg" />
+      <itunes:duration>418</itunes:duration>
+    </item>
+    <item>
       <title>2026年10月17日のニュース</title>
       <link>https://arashi2525.github.io/radio-morning/episodes/2026-10-17.html</link>
       <description>今日のコーナー: 金融・マーケット、一般ニュース、つくば・茨城、医学・医療、NBA、VALORANT。</description>
